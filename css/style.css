@@ -185,7 +185,7 @@ margin:100px 0;
     height: 50px;
     position: absolute;
     top: -25px;
-    width: 100px;
+    width: 90px;
     -webkit-box-shadow: 0 5px 10px -7px hsla(0,0%,0%,.5);
        -moz-box-shadow: 0 5px 10px -7px hsla(0,0%,0%,.5);
             box-shadow: 0 5px 10px -7px hsla(0,0%,0%,.5);
@@ -209,6 +209,10 @@ margin:100px 0;
   
 ul.hobbies{
     list-style-type: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+    color:black;
+    position:relative;
 }
 
 /* Mobile View */
